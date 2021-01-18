@@ -20,4 +20,4 @@ This note taking application allows you to type and save notes with a title and 
 The next step for this application will be to allow the user to edit his/her note. This will give the user an extra option, instead of just deleting and starting from scratch.
 
 # Contact
-<a href="https://github.com/klsybthrst">Github - klsybthrst</a>
+<a href="https://github.com/klsybthrst">Github - klsybthrst</a> 
